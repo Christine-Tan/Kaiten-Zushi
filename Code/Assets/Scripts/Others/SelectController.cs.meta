@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: add8b1626d6a94858acbd95063c52107
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - conveyerPanel: {fileID: 2761068302947970666, guid: 3129e8de46bef42e2a71f32838b06a46,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{3BB515E7-CE2C-60E9-250F-8E73C1F46C3B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Others/ConveyerController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Others/PlatesController.cs" Line="55" Column="46" />
+      <File FileName="Assets/Scripts/Others/ChefController.cs" Line="21" Column="17" />
+      <File FileName="Assets/Scripts/Others/ConveyerController.cs" Line="11" Column="6" />
+      <File FileName="Assets/Scripts/Cameras/CameraController.cs" Line="34" Column="13" />
+      <File FileName="Assets/Scripts/Cameras/PlayerController.cs" Line="33" Column="41" />
+      <File FileName="Assets/Scripts/Panels/MainPanelController.cs" Line="8" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

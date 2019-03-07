@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: a081bc0d46c8e4f54b9260b043d23210
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 2e0b30415b8c565dc7636549b59e4fb2
+  longitude: -118.11125363290292
+  latitude: 33.75885949006895
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 2.6460793, y: 1.4231808, z: 2.4355874}
+      lookAt: {x: 1.3203777, y: 0.25257108, z: 1.1783082}
+      up: {x: -0.39143103, y: 0.8420043, z: -0.37122837}
+      fov: 75
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Archmodels_1
+    100002: Box05
+    100004: Box05 1
+    100006: Box05 2
+    100008: Box05 3
+    100010: Component#89
+    100012: Component#89 1
+    100014: Component#89 2
+    100016: Component#89 3
+    100018: Component#90
+    100020: Component#90 1
+    100022: Component#90 2
+    100024: Component#90 3
+    100026: Component_37
+    100028: Ob02
+    100030: Ob02 1
+    100032: Ob02 2
+    100034: Ob02 3
+    100036: //RootNode
+    400000: Archmodels_1
+    400002: Box05
+    400004: Box05 1
+    400006: Box05 2
+    400008: Box05 3
+    400010: Component#89
+    400012: Component#89 1
+    400014: Component#89 2
+    400016: Component#89 3
+    400018: Component#90
+    400020: Component#90 1
+    400022: Component#90 2
+    400024: Component#90 3
+    400026: Component_37
+    400028: Ob02
+    400030: Ob02 1
+    400032: Ob02 2
+    400034: Ob02 3
+    400036: //RootNode
+    2100000: _93
+    2100002: _105
+    2100004: C5 A
+    2300000: Archmodels_1
+    2300002: Box05
+    2300004: Box05 1
+    2300006: Box05 2
+    2300008: Box05 3
+    2300010: Ob02
+    2300012: Ob02 1
+    2300014: Ob02 2
+    2300016: Ob02 3
+    3300000: Archmodels_1
+    3300002: Box05
+    3300004: Box05 1
+    3300006: Box05 2
+    3300008: Box05 3
+    3300010: Ob02
+    3300012: Ob02 1
+    3300014: Ob02 2
+    3300016: Ob02 3
+    4300000: Mesh Box05
+    4300002: Mesh Ob02
+    4300004: Mesh Archmodels_1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
